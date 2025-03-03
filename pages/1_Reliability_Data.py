@@ -9,10 +9,7 @@ st.sidebar.success("Please wait before changing page.")
 
 st.markdown(
     """
-    You will find below an extract of the system description of ATA32-4 Normal Braking. 
-    You can compare the dispatch conditions to see whether it will have more value to develop a predictive maintenance solution for one component or another.  
-      
-    You can consider that if one servovalve is inoperative, than the brake should be considered inoprerative.
+    You will find below an extract of the reliability ranking for your fleet, for the year 2024.
 """
 )
 
@@ -31,6 +28,6 @@ st.markdown(
     - **ATA32-41**: delays due to tire wear have always been an issue. 
     - **ATA32-42**: same issue with brake wear (approx. 80k€ in D&C impact). Growing number of delays and cancellations due to servovalve jamming (approx. 70k€ in D&C impact) and tachometer failures (approx. 50k€ in D&C impact)
     - **ATA73**: in the process of signing a contract to use the engine manufacturer’s health monitoring tool  
-    - **ATA29**: all the events happened in December 2023, still working out what the root cause is  
+    - **ATA29**: all the events happened in December 2024, still working out what the root cause is  
 """
 )
