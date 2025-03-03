@@ -1,0 +1,8 @@
+﻿A/C;Date;Fault title;Fault description
+F-ISAB;20/12/2023;BRAKE 3 INOP;Fault code wheel speed issue – tachometer 3 replaced.
+F-ISAC;01/01/2024;BRK LEAK;During walkaround found brake on wheel n2 leaking – servovalve removed and new installed
+F-ISAB;02/01/2024;BRAKE 7 WORN;Brake replaced
+F-ISAD;02/01/2024;DURING LANDING A/SKID INOP;Due to broken Harness – no speed data on display for LH bogie
+F-ISAE;04/01/2024;WHEEL 3 AMBER ON DISPLAY;After a/c power up, wheel 3 displayed amber on cockpit display. Tacho removed and new unit installed
+F-ISAB;05/01/2024;TIRE 7 WORN ;Tire worn beyond limits – tire replaced
+F-ISAA;06/01/2024;TACHO WHEEL 3 INOP;Fault code wheel speed issue – tachometer 3 replaced.

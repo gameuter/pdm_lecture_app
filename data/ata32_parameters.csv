@@ -1,0 +1,17 @@
+﻿Parameter Name;Parameter Descritption;Unit;Min value;Max value;Source
+BRWHSP_1;Wheel 1 speed;Knots;0;360;Tachometer
+BRWHSP_2;Wheel 2 speed;Knots;0;360;Tachometer
+BRWHSP_3;Wheel 3 speed;Knots;0;360;Tachometer
+BRWHSP_4;Wheel 4 speed;Knots;0;360;Tachometer
+BRWHSP_5;Wheel 5 speed;Knots;0;360;Tachometer
+BRWHSP_6;Wheel 6 speed;Knots;0;360;Tachometer
+BRWHSP_7;Wheel 7 speed;Knots;0;360;Tachometer
+BRWHSP_8;Wheel 8 speed;Knots;0;360;Tachometer
+BRPR_1;Brake 1 pressure;psi;0;4000;Pressure transducer
+BRPR_2;Brake 2 pressure;psi;0;4000;Pressure transducer
+BRPR_3;Brake 3 pressure;psi;0;4000;Pressure transducer
+BRPR_4;Brake 4 pressure;psi;0;4000;Pressure transducer
+BRPR_5;Brake 5 pressure;psi;0;4000;Pressure transducer
+BRPR_6;Brake 6 pressure;psi;0;4000;Pressure transducer
+BRPR_7;Brake 7 pressure;psi;0;4000;Pressure transducer
+BRPR_8;Brake 8 pressure;psi;0;4000;Pressure transducer
